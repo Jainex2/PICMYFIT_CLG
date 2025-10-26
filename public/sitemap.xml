@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://picmyfit.xyz/</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://picmyfit.xyz/og-image.jpg</image:loc>
+      <image:title>PICMYFIT AI Fashion Stylist</image:title>
+      <image:caption>AI-powered personal fashion stylist for luxury outfit recommendations</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Upload/Style Me Page -->
+  <url>
+    <loc>https://picmyfit.xyz/upload</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Discover Page -->
+  <url>
+    <loc>https://picmyfit.xyz/discover</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Recommendations Page -->
+  <url>
+    <loc>https://picmyfit.xyz/recommendations</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Login Page -->
+  <url>
+    <loc>https://picmyfit.xyz/login</loc>
+    <lastmod>2025-01-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
